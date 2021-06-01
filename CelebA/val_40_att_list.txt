@@ -1,0 +1,14 @@
+negative_0007.jpg -1 1
+negative_0014.jpg -1 1
+positive_0001.jpg 1 -1
+positive_0011.jpg 1 -1
+negative_0009.jpg -1 1
+negative_0016.jpg -1 1
+positive_0003.jpg 1 -1 
+positive_0018.jpg 1 -1
+negative_0010.jpg -1 1 
+negative_0020.jpg -1 1
+positive_0005.jpg 1 -1
+negative_0012.jpg -1 1 
+positive_0000.jpg 1 -1 
+positive_0008.jpg 1 -1
